@@ -20,7 +20,7 @@
 
 * 安装依赖
 
-  安装React：
+  安装React
 
   ```
   npm install react react-dom --save
