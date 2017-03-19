@@ -27,7 +27,7 @@
 	display: inline-block;
 	width: 30px;
 	height: 30px;
-	background: url(/app/image/checkbox_01.gif);
+	background: url("https://raw.githubusercontent.com/miraclezys/todomvc_me/master/app/image/checkbox_01.gif");
 	background-repeat: no-repeat;
 	background-size: 100%;
 }

@@ -4,6 +4,8 @@
 
 并自行使用了React进行实现，之后应该会继续修改，代码规范以及一些写法还有很多可以完善的地方。
 
+[效果可点击这里查看](https://miraclezys.github.io/todomvc_me/build/index.html)
+
 ### 准备工作
 
 * 安装Node.js
